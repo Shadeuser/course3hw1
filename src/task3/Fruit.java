@@ -1,5 +1,6 @@
 package task3;
 
+
 public class Fruit {
     private Float weight;
 
