@@ -1,5 +1,6 @@
 package task3;
 
+
 public class Orange extends Fruit {
     private Float weight;
 
